@@ -1,0 +1,821 @@
+po_id,supplier_id,supplier_name,category,region,order_date,promised_date,actual_delivery_date,units_received,defective_units,baseline_unit_price,unit_price
+PO-2026-1001,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-08-21,2026-09-05,2026-09-11,1684,14.0,2432.3,2589.7
+PO-2026-1002,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-10-11,2026-10-25,2026-10-25,2547,21.0,2432.3,2609.19
+PO-2026-1003,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-10-30,2026-11-19,2026-11-17,3702,6.0,1896.99,1932.13
+PO-2026-1004,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-04-16,2026-05-01,2026-04-30,741,0.0,1602.51,1601.57
+PO-2026-1005,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-10-06,2026-10-31,2026-10-31,3056,5.0,2389.11,2417.88
+PO-2026-1006,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2025-12-20,2026-01-10,2026-01-09,3961,2.0,1092.72,1095.67
+PO-2026-1007,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-06-06,2026-07-01,2026-06-30,1495,2.0,2389.11,2437.68
+PO-2026-1008,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-06-03,2026-06-28,2026-07-07,837,0.0,2198.9,2215.61
+PO-2026-1009,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-07-10,2026-08-04,2026-08-02,2562,1.0,1602.51,1609.03
+PO-2026-1010,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-10-10,2026-10-24,2026-10-24,891,1.0,1602.51,1641.32
+PO-2026-1011,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-06-19,2026-07-12,2026-07-20,700,1.0,601.04,614.16
+PO-2026-1012,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-01-01,2026-01-22,2026-01-21,2070,12.0,380.69,381.61
+PO-2026-1013,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-07-15,2026-08-02,2026-08-02,4993,5.0,1896.99,1917.81
+PO-2026-1014,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2025-12-12,2026-01-06,2026-01-14,1063,6.0,1843.16,1860.72
+PO-2026-1015,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-06-19,2026-07-15,2026-07-13,1559,5.0,601.04,617.38
+PO-2026-1016,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-01-25,2026-02-19,2026-02-17,2097,2.0,1896.99,1917.71
+PO-2026-1017,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-02-16,2026-03-13,2026-03-12,2163,24.0,2432.3,2508.61
+PO-2026-1018,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-05-09,2026-05-23,2026-06-04,4529,12.0,380.69,391.39
+PO-2026-1019,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-10-25,2026-11-13,2026-11-11,4913,3.0,1896.99,1910.48
+PO-2026-1020,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-04-01,2026-04-29,2026-05-08,3804,28.0,2432.3,2500.83
+PO-2026-1021,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-08-22,2026-09-06,2026-09-04,4196,36.0,2432.3,2595.57
+PO-2026-1022,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2025-12-23,2026-01-17,2026-01-16,4010,6.0,2389.11,2383.38
+PO-2026-1023,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-08-07,2026-08-25,2026-08-24,2430,,600.99,645.92
+PO-2026-1024,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-03-04,2026-03-28,2026-03-26,2294,2.0,1602.51,1619.0
+PO-2026-1025,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-10-12,2026-10-28,2026-10-28,2343,5.0,1896.99,1920.0
+PO-2026-1026,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-10-04,2026-10-25,2026-11-07,4561,30.0,380.69,399.71
+PO-2026-1027,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-02-20,2026-03-14,2026-03-12,2549,25.0,1843.16,1888.34
+PO-2026-1028,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-12-07,2026-01-05,2026-01-03,3670,7.0,601.04,607.58
+PO-2026-1029,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-04-01,2026-04-20,2026-04-20,2148,0.0,1596.98,1613.01
+PO-2026-1030,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-07-12,2026-07-28,2026-07-26,598,1.0,1596.98,1595.61
+PO-2026-1031,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-05-13,2026-06-01,2026-05-30,4567,7.0,2389.11,2401.82
+PO-2026-1032,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-08-31,2026-09-17,2026-09-17,1718,3.0,601.04,621.82
+PO-2026-1033,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2025-11-22,2025-12-19,2025-12-18,3936,31.0,2432.3,2450.55
+PO-2026-1034,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-09-13,2026-10-12,2026-10-12,3620,0.0,1092.72,1112.99
+PO-2026-1035,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-11-06,2025-11-22,2025-11-20,2827,3.0,601.04,602.0
+PO-2026-1036,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-05-07,2026-05-21,2026-05-27,3475,5.0,1896.99,1904.62
+PO-2026-1037,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-08-08,2026-08-31,2026-08-30,2395,1.0,2389.11,2411.86
+PO-2026-1038,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-03-31,2026-04-15,2026-04-26,1909,14.0,600.99,627.41
+PO-2026-1039,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-08-26,2026-09-14,2026-09-12,3306,2.0,1602.51,1620.86
+PO-2026-1040,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2025-11-13,2025-12-08,2025-12-06,4631,4.0,2198.9,2206.22
+PO-2026-1041,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-03-23,2026-04-17,2026-04-17,2482,15.0,2432.3,2506.33
+PO-2026-1042,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-09-10,2026-10-03,2026-10-08,4354,44.0,600.99,647.64
+PO-2026-1043,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-12-30,2026-01-24,2026-01-24,1376,1.0,601.04,603.86
+PO-2026-1044,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-09-07,2026-09-28,2026-09-26,4965,5.0,1896.99,1914.44
+PO-2026-1045,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-02-28,2026-03-28,2026-03-27,1869,0.0,1092.72,1106.39
+PO-2026-1046,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-03-07,2026-03-29,2026-03-27,1581,14.0,380.69,388.14
+PO-2026-1047,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2025-12-18,2026-01-09,2026-01-07,3843,29.0,600.99,603.85
+PO-2026-1048,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-05-04,2026-05-30,2026-06-05,3618,24.0,600.99,630.7
+PO-2026-1049,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-06-06,2026-06-29,2026-06-29,2135,16.0,2432.3,2544.77
+PO-2026-1050,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-07-08,2026-07-31,2026-07-30,3751,21.0,380.69,397.23
+PO-2026-1051,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-02-04,2026-02-18,2026-02-16,3587,13.0,1843.16,1872.4
+PO-2026-1052,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-04-09,2026-05-03,2026-05-02,4246,4.0,1092.72,1096.57
+PO-2026-1053,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-02-09,2026-03-06,2026-03-04,4413,3.0,1896.99,1896.21
+PO-2026-1054,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-02-03,2026-03-02,2026-03-06,1253,13.0,2432.3,2461.55
+PO-2026-1055,SUP-108,Bosch Chassis Systems,Electronics,,2026-02-01,2026-02-24,2026-02-23,917,0.0,2198.9,2204.27
+PO-2026-1056,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-02-22,2026-03-20,2026-03-18,3848,30.0,1843.16,1873.46
+PO-2026-1057,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-05-11,2026-05-27,2026-05-26,2643,3.0,601.04,618.8
+PO-2026-1058,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-07-26,2026-08-09,2026-08-09,3414,2.0,601.04,623.47
+PO-2026-1059,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-06-05,2026-06-24,2026-06-24,895,2.0,1596.98,1612.79
+PO-2026-1060,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-08-11,2026-09-07,2026-09-07,4077,4.0,1602.51,1625.71
+PO-2026-1061,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2025-11-25,2025-12-12,2025-12-10,3722,,1896.99,1884.2
+PO-2026-1062,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-12-12,2026-01-04,2026-01-15,1656,3.0,601.04,604.29
+PO-2026-1063,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-03-26,2026-04-23,2026-04-22,1453,0.0,296.32,295.13
+PO-2026-1064,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-04-23,2026-05-19,2026-05-29,3493,27.0,380.69,388.83
+PO-2026-1065,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-10-05,2026-10-26,2026-10-24,1865,4.0,601.04,628.68
+PO-2026-1066,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-08-28,2026-09-14,2026-09-14,2310,3.0,1602.51,1630.72
+PO-2026-1067,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-05-21,2026-06-13,2026-06-12,4022,0.0,296.32,297.39
+PO-2026-1068,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-03-28,2026-04-22,2026-04-22,1884,12.0,1843.16,1886.95
+PO-2026-1069,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-05-09,2026-05-31,2026-06-02,1323,13.0,2432.3,2529.96
+PO-2026-1070,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2025-12-14,2026-01-09,2026-01-07,4675,26.0,1843.16,1872.19
+PO-2026-1071,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-04-13,2026-04-29,2026-04-27,1756,1.0,601.04,609.31
+PO-2026-1072,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2025-12-24,2026-01-12,2026-01-12,1853,4.0,1092.72,1102.84
+PO-2026-1073,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-04-05,2026-04-23,2026-05-06,4685,51.0,2432.3,2503.55
+PO-2026-1074,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-12-11,2025-12-28,2025-12-27,3008,5.0,601.04,599.62
+PO-2026-1075,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-07-11,2026-07-30,2026-07-28,2338,5.0,1896.99,1900.81
+PO-2026-1076,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-07-09,2026-08-04,2026-08-02,4969,8.0,2389.11,2445.12
+PO-2026-1077,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-07-25,2026-08-12,2026-08-10,4425,5.0,1092.72,1102.19
+PO-2026-1078,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-02-06,2026-02-28,2026-02-26,904,0.0,1092.72,1103.59
+PO-2026-1079,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-05-16,2026-06-13,2026-06-13,1960,2.0,1092.72,1103.53
+PO-2026-1080,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-01-22,2026-02-05,2026-02-03,2548,21.0,1843.16,1867.78
+PO-2026-1081,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-08-15,2026-08-30,2026-08-30,749,0.0,1092.72,1107.26
+PO-2026-1082,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-09-02,2026-09-27,2026-09-25,3537,2.0,296.32,298.22
+PO-2026-1083,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-05-26,2026-06-13,2026-06-12,2622,13.0,380.69,390.81
+PO-2026-1084,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-06-14,2026-07-03,2026-07-02,1858,17.0,2432.3,2571.91
+PO-2026-1085,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-07-07,2026-07-26,2026-07-26,3677,3.0,1596.98,1616.76
+PO-2026-1086,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-03-18,2026-04-08,2026-04-06,4079,0.0,1596.98,1585.47
+PO-2026-1087,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2025-12-23,2026-01-07,2026-01-19,4638,44.0,600.99,604.24
+PO-2026-1088,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-10-02,2026-10-30,2026-10-28,3766,28.0,380.69,401.77
+PO-2026-1089,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2025-12-31,2026-01-23,2026-01-21,4400,1.0,2389.11,2399.29
+PO-2026-1090,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-06-21,2026-07-16,2026-07-15,2468,4.0,601.04,618.61
+PO-2026-1091,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-08-09,2026-08-31,2026-08-30,2786,2.0,1602.51,1616.19
+PO-2026-1092,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2025-11-26,2025-12-13,2025-12-11,1776,5.0,1092.72,1094.27
+PO-2026-1093,SUP-108,Bosch Chassis Systems,Electronics,,2026-06-02,2026-06-29,2026-06-29,2625,1.0,2198.9,2222.62
+PO-2026-1094,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-09-08,2026-09-24,2026-09-24,1418,0.0,296.32,299.04
+PO-2026-1095,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-08-21,2026-09-06,2026-09-04,2575,0.0,2389.11,2418.97
+PO-2026-1096,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-01-25,2026-02-17,2026-02-15,4096,26.0,380.69,387.37
+PO-2026-1097,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-06-21,2026-07-17,2026-07-17,1993,2.0,1896.99,1924.39
+PO-2026-1098,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-06-24,2026-07-10,2026-07-08,3239,3.0,1092.72,1101.3
+PO-2026-1099,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-09-11,2026-10-07,2026-10-05,1812,0.0,2198.9,2205.74
+PO-2026-1100,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-02-20,2026-03-09,2026-03-08,2897,20.0,600.99,622.21
+PO-2026-1101,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-07-01,2026-07-29,2026-07-29,505,2.0,380.69,399.41
+PO-2026-1102,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-10-01,2026-10-20,2026-10-19,3051,2.0,1596.98,1614.53
+PO-2026-1103,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-10-01,2026-10-25,2026-10-25,1641,3.0,2389.11,2418.48
+PO-2026-1104,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-02-21,2026-03-18,2026-03-17,4915,,1596.98,1599.63
+PO-2026-1105,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-09-29,2026-10-23,2026-10-22,2539,0.0,1596.98,1590.3
+PO-2026-1106,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2025-11-13,2025-12-04,2025-12-02,1842,19.0,2432.3,2451.36
+PO-2026-1107,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2025-12-08,2025-12-28,2025-12-28,2104,1.0,296.32,299.38
+PO-2026-1108,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-03-17,2026-04-01,2026-04-01,3060,6.0,601.04,610.89
+PO-2026-1109,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-07-25,2026-08-16,2026-08-15,1814,0.0,2198.9,2228.76
+PO-2026-1110,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-01-17,2026-02-09,2026-02-07,1565,0.0,296.32,298.82
+PO-2026-1111,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-02-12,2026-03-11,2026-03-09,2690,17.0,380.69,386.03
+PO-2026-1112,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-09-05,2026-09-26,2026-10-04,2470,14.0,380.69,398.69
+PO-2026-1113,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2025-12-12,2026-01-10,2026-01-10,2535,3.0,1896.99,1902.96
+PO-2026-1114,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-02-05,2026-03-03,2026-03-11,2836,16.0,600.99,616.06
+PO-2026-1115,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2025-11-05,2025-11-29,2025-11-28,3353,19.0,1843.16,1839.7
+PO-2026-1116,SUP-108,Bosch Chassis Systems,Electronics,,2026-05-03,2026-05-31,2026-05-29,3728,1.0,2198.9,2219.7
+PO-2026-1117,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-02-03,2026-02-19,2026-02-18,2334,3.0,2389.11,2417.03
+PO-2026-1118,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-10-26,2026-11-14,2026-11-22,1314,6.0,1843.16,1938.04
+PO-2026-1119,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-03-21,2026-04-11,2026-04-09,2139,16.0,1843.16,1894.44
+PO-2026-1120,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-09-20,2026-10-08,2026-10-08,3677,2.0,1596.98,1600.04
+PO-2026-1121,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2025-12-21,2026-01-16,2026-01-14,4297,7.0,1602.51,1594.81
+PO-2026-1122,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-10-12,2026-11-08,2026-11-08,3372,4.0,601.04,621.5
+PO-2026-1123,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-03-29,2026-04-26,2026-05-06,701,1.0,1896.99,1889.73
+PO-2026-1124,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-08-18,2026-09-15,2026-09-14,2622,5.0,1602.51,1626.88
+PO-2026-1125,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-10-13,2026-10-27,2026-10-27,1705,0.0,296.32,299.12
+PO-2026-1126,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-10-10,2026-10-24,2026-10-24,3213,16.0,600.99,653.78
+PO-2026-1127,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-10-03,2026-10-20,2026-10-19,841,2.0,380.69,405.5
+PO-2026-1128,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-09-23,2026-10-07,,2762,2.0,1092.72,1109.03
+PO-2026-1129,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-08-13,2026-09-11,2026-09-10,1268,2.0,1092.72,1100.23
+PO-2026-1130,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-02-21,2026-03-08,2026-03-08,3835,7.0,2389.11,2425.09
+PO-2026-1131,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-04-11,2026-05-06,2026-05-06,2323,15.0,1843.16,1889.67
+PO-2026-1132,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-09-09,2026-09-29,2026-09-29,2990,2.0,1092.72,1104.14
+PO-2026-1133,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-06-27,2026-07-15,2026-07-13,4175,2.0,1602.51,1610.57
+PO-2026-1134,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-01-17,2026-02-15,2026-02-15,4483,2.0,2198.9,2210.93
+PO-2026-1135,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-06-11,2026-07-01,2026-07-01,4925,4.0,601.04,612.15
+PO-2026-1136,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-02-20,2026-03-18,2026-03-16,4677,7.0,1896.99,1917.69
+PO-2026-1137,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2025-11-11,2025-12-04,2025-12-04,3690,1.0,1596.98,1601.16
+PO-2026-1138,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-07-14,2026-08-10,2026-08-08,4077,41.0,600.99,643.21
+PO-2026-1139,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2025-12-29,2026-01-25,2026-01-23,4453,0.0,2198.9,2192.22
+PO-2026-1140,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-06-25,2026-07-17,2026-07-16,1801,2.0,2198.9,2234.42
+PO-2026-1141,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2025-11-29,2025-12-25,2025-12-23,574,5.0,1843.16,1851.32
+PO-2026-1142,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-10-22,2026-11-13,2026-11-11,2122,8.0,1843.16,1919.52
+PO-2026-1143,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-09-09,2026-10-07,2026-10-06,954,0.0,296.32,300.86
+PO-2026-1144,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-05-09,2026-06-01,2026-05-31,3567,10.0,601.04,609.69
+PO-2026-1145,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-08-19,2026-09-04,2026-09-02,4350,5.0,601.04,618.47
+PO-2026-1146,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-05-06,2026-05-26,2026-05-25,4693,3.0,1092.72,1108.21
+PO-2026-1147,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-01-08,2026-01-29,2026-02-03,1250,8.0,600.99,612.21
+PO-2026-1148,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-10-03,2026-10-30,2026-10-30,981,0.0,296.32,298.9
+PO-2026-1149,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-05-20,2026-06-10,2026-06-08,560,1.0,1602.51,1617.98
+PO-2026-1150,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-08-18,2026-09-03,2026-09-16,671,8.0,380.69,395.07
+PO-2026-1151,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-08-02,2026-08-20,2026-09-01,3504,30.0,2432.3,2600.66
+PO-2026-1152,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-07-22,2026-08-19,2026-08-19,2921,3.0,1896.99,1935.73
+PO-2026-1153,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-01-28,2026-02-22,2026-02-21,988,3.0,2389.11,2378.62
+PO-2026-1154,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2025-11-16,2025-12-06,2025-12-05,3657,26.0,1843.16,1829.77
+PO-2026-1155,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-11-07,2025-11-29,2025-11-28,1326,4.0,601.04,601.13
+PO-2026-1156,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-02-11,2026-02-25,2026-02-25,3167,0.0,1596.98,1585.7
+PO-2026-1157,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-04-20,2026-05-11,2026-05-11,4959,8.0,601.04,615.89
+PO-2026-1158,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-10-15,2026-11-03,2026-11-02,4611,1.0,1596.98,1616.62
+PO-2026-1159,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-09-07,2026-09-23,,4846,9.0,2389.11,2431.07
+PO-2026-1160,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2025-12-09,2026-01-05,2026-01-04,2532,2.0,1896.99,1899.19
+PO-2026-1161,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-07-30,2026-08-20,2026-08-18,4861,2.0,1602.51,1621.06
+PO-2026-1162,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-01-04,2026-01-31,2026-02-09,2533,0.0,1596.98,1589.87
+PO-2026-1163,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-05-12,2026-05-30,2026-05-28,4994,4.0,1602.51,1625.13
+PO-2026-1164,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-05-06,2026-05-29,,1438,14.0,2432.3,2554.92
+PO-2026-1165,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2025-11-11,2025-12-08,2025-12-06,1384,1.0,2198.9,2182.81
+PO-2026-1166,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-06-14,2026-07-06,2026-07-04,3053,2.0,296.32,297.26
+PO-2026-1167,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-12-24,2026-01-21,2026-01-19,3670,6.0,601.04,604.83
+PO-2026-1168,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-04-27,2026-05-12,2026-05-12,4755,1.0,296.32,298.49
+PO-2026-1169,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-09-25,2026-10-12,2026-10-11,1790,3.0,1602.51,1623.8
+PO-2026-1170,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2025-11-29,2025-12-21,2025-12-24,1855,10.0,2432.3,2438.91
+PO-2026-1171,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-07-19,2026-08-12,2026-08-21,1474,0.0,1602.51,1631.61
+PO-2026-1172,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2025-12-07,2026-01-01,2026-01-14,4536,38.0,1843.16,1836.09
+PO-2026-1173,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-05-05,2026-05-21,2026-05-20,4430,7.0,1896.99,1920.29
+PO-2026-1174,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-03-27,2026-04-25,2026-04-23,2204,1.0,2198.9,2196.2
+PO-2026-1175,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-04-19,2026-05-06,2026-05-05,1056,3.0,601.04,606.51
+PO-2026-1176,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-04-09,2026-05-03,2026-05-11,4498,13.0,380.69,391.07
+PO-2026-1177,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-08-22,2026-09-06,2026-09-18,1636,16.0,2432.3,2570.35
+PO-2026-1178,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-05-07,2026-06-05,2026-06-05,1507,0.0,2389.11,2426.06
+PO-2026-1179,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-06-21,2026-07-20,2026-07-20,1745,12.0,1843.16,1912.38
+PO-2026-1180,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-10-18,2026-11-04,2026-11-04,1540,1.0,1596.98,1611.32
+PO-2026-1181,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-05-12,2026-05-31,2026-05-31,2853,36.0,600.99,631.56
+PO-2026-1182,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-04-13,2026-05-07,2026-05-20,528,1.0,2432.3,2510.62
+PO-2026-1183,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2025-12-28,2026-01-17,2026-01-16,3856,7.0,1896.99,1886.34
+PO-2026-1184,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2025-12-09,2026-01-06,2026-01-04,1598,0.0,1602.51,1592.46
+PO-2026-1185,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2025-11-22,2025-12-16,2025-12-14,3953,0.0,1596.98,1595.28
+PO-2026-1186,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-08-30,2026-09-28,2026-09-27,2182,2.0,601.04,626.75
+PO-2026-1187,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2025-12-28,2026-01-22,2026-01-21,2480,1.0,1092.72,1102.47
+PO-2026-1188,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2025-11-12,2025-11-27,2025-11-27,2107,0.0,2198.9,2186.53
+PO-2026-1189,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-11-08,2025-12-06,2025-12-05,4944,4.0,601.04,595.88
+PO-2026-1190,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2025-12-16,2026-01-13,2026-01-12,3844,35.0,2432.3,2439.79
+PO-2026-1191,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-02-25,2026-03-12,2026-03-12,4288,35.0,600.99,620.35
+PO-2026-1192,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-02-03,2026-02-22,2026-02-20,1228,3.0,2389.11,2414.79
+PO-2026-1193,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-07-25,2026-08-13,2026-08-11,2948,0.0,2198.9,2218.04
+PO-2026-1194,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-01-25,2026-02-19,2026-02-18,1435,5.0,600.99,611.5
+PO-2026-1195,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-06-13,2026-06-27,2026-06-26,1417,,2389.11,2441.25
+PO-2026-1196,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-04-23,2026-05-16,2026-05-15,605,2.0,1843.16,1872.26
+PO-2026-1197,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-09-13,2026-09-29,2026-09-27,3644,0.0,296.32,299.13
+PO-2026-1198,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-05-23,2026-06-13,2026-06-12,1607,1.0,2389.11,2430.73
+PO-2026-1199,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-01-23,2026-02-21,2026-02-20,521,3.0,380.69,386.98
+PO-2026-1200,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-05-07,2026-05-30,2026-05-29,2634,3.0,1602.51,1618.27
+PO-2026-1201,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-03-02,2026-03-18,2026-03-16,2427,4.0,1896.99,1903.91
+PO-2026-1202,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-08-27,2026-09-11,2026-09-15,1161,1.0,1896.99,1921.91
+PO-2026-1203,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-03-11,2026-04-05,2026-04-05,852,1.0,296.32,295.44
+PO-2026-1204,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-04-08,2026-05-01,2026-04-29,3279,4.0,601.04,617.31
+PO-2026-1205,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2025-12-20,2026-01-03,2026-01-01,1773,1.0,2198.9,2201.27
+PO-2026-1206,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-10-01,2026-10-16,2026-10-16,4509,12.0,2389.11,2422.51
+PO-2026-1207,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-03-11,2026-04-06,2026-04-04,3458,31.0,2432.3,2497.0
+PO-2026-1208,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-08-25,2026-09-19,2026-09-18,874,5.0,380.69,396.0
+PO-2026-1209,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-09-14,2026-10-03,2026-10-03,513,0.0,1602.51,1625.83
+PO-2026-1210,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-06-19,2026-07-08,2026-07-06,2540,2.0,2389.11,2436.32
+PO-2026-1211,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-04-13,2026-05-09,2026-05-09,3966,9.0,601.04,611.08
+PO-2026-1212,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-02-01,2026-02-24,2026-02-22,1780,9.0,1843.16,1869.63
+PO-2026-1213,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2025-11-01,2025-11-23,2025-11-28,1807,10.0,2432.3,2443.8
+PO-2026-1214,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-05-23,2026-06-10,2026-06-10,2242,3.0,601.04,614.89
+PO-2026-1215,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-09-30,2026-10-15,2026-10-13,1543,0.0,1596.98,1608.74
+PO-2026-1216,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-05-17,2026-06-04,2026-06-02,1508,2.0,1896.99,1919.49
+PO-2026-1217,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-04-30,2026-05-15,,625,1.0,1596.98,1605.36
+PO-2026-1218,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2025-12-09,2026-01-06,2026-01-06,3749,2.0,1602.51,1606.88
+PO-2026-1219,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-03-06,2026-04-01,2026-04-04,3293,22.0,380.69,385.94
+PO-2026-1220,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-03-09,2026-03-29,2026-03-28,2018,1.0,601.04,611.79
+PO-2026-1221,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-02-27,2026-03-22,2026-03-21,4549,29.0,380.69,390.88
+PO-2026-1222,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-01-15,2026-02-08,2026-02-07,3572,1.0,2198.9,2210.41
+PO-2026-1223,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-08-31,2026-09-18,2026-09-17,3791,3.0,601.04,622.26
+PO-2026-1224,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-04-10,2026-05-02,2026-04-30,3132,1.0,1602.51,1609.79
+PO-2026-1225,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-09-20,2026-10-05,2026-10-04,2167,1.0,296.32,300.77
+PO-2026-1226,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-08-06,2026-08-22,2026-08-20,1867,1.0,2389.11,2432.63
+PO-2026-1227,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-03-23,2026-04-06,2026-04-06,2690,5.0,601.04,609.05
+PO-2026-1228,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-09-01,2026-09-30,2026-09-29,3838,4.0,1602.51,1634.6
+PO-2026-1229,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-07-23,2026-08-08,2026-08-07,3001,,1843.16,1921.38
+PO-2026-1230,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2025-11-12,2025-11-30,2025-11-28,3522,3.0,1602.51,1606.93
+PO-2026-1231,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-09-22,2026-10-19,2026-10-19,1504,12.0,380.69,400.5
+PO-2026-1232,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-03-04,2026-04-01,2026-04-01,4646,3.0,601.04,614.36
+PO-2026-1233,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-08-02,2026-08-17,2026-08-22,872,6.0,600.99,639.28
+PO-2026-1234,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-08-18,2026-09-08,2026-09-13,2181,19.0,2432.3,2610.09
+PO-2026-1235,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-10-11,2026-11-07,2026-11-20,4154,20.0,1843.16,1940.83
+PO-2026-1236,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2025-12-06,2025-12-23,2025-12-23,2345,13.0,1843.16,1835.17
+PO-2026-1237,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2025-12-17,2026-01-10,2026-01-17,1800,14.0,1843.16,1844.75
+PO-2026-1238,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-07-29,2026-08-21,2026-08-19,2160,4.0,1602.51,1634.87
+PO-2026-1239,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-04-03,2026-04-27,2026-04-26,4183,3.0,1092.72,1100.96
+PO-2026-1240,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-04-13,2026-05-06,2026-05-05,2084,3.0,2389.11,2427.78
+PO-2026-1241,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-03-29,2026-04-12,2026-04-18,2966,19.0,380.69,390.31
+PO-2026-1242,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-01-17,2026-02-12,2026-02-11,1269,5.0,1843.16,1866.18
+PO-2026-1243,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-09-19,2026-10-12,2026-10-12,4508,6.0,2389.11,2454.74
+PO-2026-1244,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-08-29,2026-09-14,2026-09-13,3101,37.0,2432.3,2606.03
+PO-2026-1245,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-06-20,2026-07-08,2026-07-08,572,0.0,1596.98,1593.3
+PO-2026-1246,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-05-15,2026-06-10,2026-06-09,3064,1.0,1602.51,1624.13
+PO-2026-1247,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-06-18,2026-07-09,2026-07-08,2928,1.0,2198.9,2199.08
+PO-2026-1248,SUP-102,Chennai Precision Castings,Stamping & Castings,,2026-06-03,2026-06-28,2026-06-26,4374,7.0,2389.11,2415.46
+PO-2026-1249,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-03-30,2026-04-24,2026-04-22,2368,1.0,2198.9,2219.08
+PO-2026-1250,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-05-27,2026-06-19,2026-06-29,2602,18.0,380.69,392.48
+PO-2026-1251,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-03-16,2026-04-02,2026-04-01,736,4.0,2432.3,2527.34
+PO-2026-1252,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2025-11-05,2025-11-22,2025-11-20,785,7.0,600.99,603.07
+PO-2026-1253,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-06-19,2026-07-18,2026-07-17,2023,3.0,2389.11,2397.06
+PO-2026-1254,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-03-31,2026-04-15,2026-04-13,840,0.0,1092.72,1091.51
+PO-2026-1255,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-09-27,2026-10-13,2026-10-13,2189,2.0,1092.72,1102.94
+PO-2026-1256,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-03-23,2026-04-11,2026-04-10,4607,8.0,1896.99,1893.51
+PO-2026-1257,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-08-18,2026-09-14,2026-09-13,633,0.0,2389.11,2413.31
+PO-2026-1258,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-04-12,2026-04-27,2026-04-27,4861,6.0,1602.51,1604.96
+PO-2026-1259,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-08-16,2026-09-02,2026-08-31,1633,19.0,600.99,647.63
+PO-2026-1260,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2025-11-25,2025-12-21,2025-12-19,1463,0.0,1596.98,1612.3
+PO-2026-1261,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2025-11-12,2025-12-11,2025-12-24,4224,50.0,2432.3,2427.35
+PO-2026-1262,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-04-09,2026-05-05,2026-05-08,3210,22.0,600.99,619.28
+PO-2026-1263,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-07-24,2026-08-15,2026-08-27,1189,0.0,1896.99,1925.05
+PO-2026-1264,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-01-22,2026-02-13,2026-02-11,1679,1.0,1602.51,1596.92
+PO-2026-1265,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-02-05,2026-02-22,2026-02-20,2648,26.0,2432.3,2474.05
+PO-2026-1266,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-03-04,2026-03-23,2026-03-23,2008,2.0,1596.98,1598.07
+PO-2026-1267,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2025-11-07,2025-12-01,2025-11-30,2264,2.0,1896.99,1915.06
+PO-2026-1268,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-01-01,2026-01-25,2026-01-24,3208,22.0,380.69,381.74
+PO-2026-1269,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-01-04,2026-01-30,2026-02-02,2885,11.0,380.69,381.21
+PO-2026-1270,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-05-07,2026-05-31,2026-05-31,3057,1.0,1092.72,1094.49
+PO-2026-1271,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-01-21,2026-02-11,2026-02-09,1959,23.0,2432.3,2470.25
+PO-2026-1272,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-02-21,2026-03-15,2026-03-24,892,9.0,1843.16,1882.83
+PO-2026-1273,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2025-11-10,2025-11-25,2025-12-08,2779,2.0,1092.72,1095.99
+PO-2026-1274,SUP-102,Chennai Precision Castings,Stamping & Castings,,2026-07-22,2026-08-15,2026-08-13,578,2.0,2389.11,2421.18
+PO-2026-1275,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-01-08,2026-02-06,2026-02-06,2648,0.0,1896.99,1884.76
+PO-2026-1276,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2025-12-13,2025-12-27,2026-01-05,3211,12.0,380.69,383.38
+PO-2026-1277,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-09-10,2026-10-08,2026-10-08,4994,5.0,2198.9,2230.24
+PO-2026-1278,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-07-19,2026-08-06,2026-08-05,2073,0.0,1896.99,1917.82
+PO-2026-1279,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-06-11,2026-07-02,2026-06-30,2876,2.0,1092.72,1092.93
+PO-2026-1280,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-08-19,2026-09-15,2026-09-13,2716,5.0,1092.72,1100.96
+PO-2026-1281,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-07-24,2026-08-11,2026-08-11,1269,2.0,2389.11,2427.74
+PO-2026-1282,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-06-14,2026-07-08,2026-07-10,1435,14.0,2432.3,2532.55
+PO-2026-1283,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-09-11,2026-10-08,2026-10-06,4197,5.0,2198.9,2206.41
+PO-2026-1284,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-04-21,2026-05-20,2026-05-18,4488,5.0,601.04,616.1
+PO-2026-1285,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2025-12-09,2025-12-23,2025-12-26,2696,19.0,380.69,382.77
+PO-2026-1286,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-08-29,2026-09-19,2026-09-19,2259,0.0,2198.9,2219.01
+PO-2026-1287,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-10-11,2026-10-30,2026-10-28,4037,0.0,296.32,300.21
+PO-2026-1288,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-08-10,2026-08-25,2026-08-25,4683,1.0,1596.98,1600.38
+PO-2026-1289,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-05-08,2026-05-22,2026-05-22,2153,3.0,601.04,615.69
+PO-2026-1290,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-02-16,2026-03-16,2026-03-14,861,5.0,380.69,389.76
+PO-2026-1291,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-07-19,2026-08-04,2026-08-04,2355,26.0,2432.3,2556.51
+PO-2026-1292,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-08-29,2026-09-18,,2659,18.0,1843.16,1921.16
+PO-2026-1293,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-06-22,2026-07-15,2026-07-13,1537,15.0,600.99,638.63
+PO-2026-1294,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-01-14,2026-02-12,2026-02-12,4395,,1596.98,1586.61
+PO-2026-1295,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2025-11-20,2025-12-13,2025-12-13,2328,1.0,1596.98,1581.49
+PO-2026-1296,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-05-21,2026-06-09,2026-06-22,1580,8.0,380.69,392.52
+PO-2026-1297,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2025-11-04,2025-11-30,2025-11-28,4931,25.0,380.69,382.42
+PO-2026-1298,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-07-12,2026-08-02,2026-08-01,3759,3.0,2198.9,2214.06
+PO-2026-1299,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-04-01,2026-04-27,2026-04-26,3474,5.0,1896.99,1909.53
+PO-2026-1300,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-10-16,2026-11-05,2026-11-03,1669,0.0,1596.98,1590.64
+PO-2026-1301,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-07-09,2026-08-06,2026-08-05,2336,18.0,2432.3,2572.27
+PO-2026-1302,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-06-28,2026-07-26,2026-07-25,2625,2.0,1596.98,1609.87
+PO-2026-1303,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-09-21,2026-10-13,2026-10-12,2597,,1843.16,1932.35
+PO-2026-1304,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-05-17,2026-05-31,2026-05-31,4486,40.0,600.99,634.66
+PO-2026-1305,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-12-19,2026-01-06,2026-01-04,2903,2.0,601.04,599.16
+PO-2026-1306,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-08-22,2026-09-06,2026-09-04,3159,22.0,380.69,396.49
+PO-2026-1307,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-10-30,2026-11-24,2026-11-29,1931,12.0,2432.3,2615.22
+PO-2026-1308,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-04-12,2026-05-02,2026-05-01,3971,44.0,2432.3,2532.12
+PO-2026-1309,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-09-25,2026-10-21,2026-10-21,3143,31.0,2432.3,2610.17
+PO-2026-1310,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-05-15,2026-05-30,2026-05-30,3641,9.0,601.04,608.14
+PO-2026-1311,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-05-22,2026-06-08,2026-06-08,1949,2.0,2198.9,2223.72
+PO-2026-1312,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-04-14,2026-05-07,2026-05-05,4170,,1602.51,1619.0
+PO-2026-1313,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-10-11,2026-10-29,2026-10-27,924,0.0,1896.99,1932.15
+PO-2026-1314,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-09-23,2026-10-12,2026-10-10,2187,8.0,1843.16,1938.75
+PO-2026-1315,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2025-12-13,2026-01-04,2026-01-02,2133,7.0,1843.16,1852.23
+PO-2026-1316,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-09-26,2026-10-14,2026-10-13,3637,1.0,1092.72,1110.48
+PO-2026-1317,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-03-05,2026-03-25,2026-03-25,1110,0.0,1896.99,1917.52
+PO-2026-1318,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-08-04,2026-08-21,2026-08-20,3291,25.0,380.69,400.85
+PO-2026-1319,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-07-28,2026-08-21,2026-08-20,4367,49.0,2432.3,2554.55
+PO-2026-1320,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2025-12-14,2025-12-28,2025-12-28,2314,4.0,1896.99,1895.81
+PO-2026-1321,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-05-16,2026-06-01,2026-05-31,507,0.0,1896.99,1923.38
+PO-2026-1322,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-01-24,2026-02-14,2026-02-14,2785,1.0,1596.98,1587.89
+PO-2026-1323,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-07-26,2026-08-10,2026-08-10,3424,3.0,1596.98,1595.7
+PO-2026-1324,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-06-08,2026-06-22,2026-07-01,1112,1.0,2198.9,2226.18
+PO-2026-1325,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-07-18,2026-08-14,2026-08-13,3091,2.0,601.04,620.98
+PO-2026-1326,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2025-11-16,2025-11-30,2025-11-30,4104,27.0,380.69,380.28
+PO-2026-1327,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-02-10,2026-03-05,2026-03-05,4211,35.0,2432.3,2487.48
+PO-2026-1328,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-04-03,2026-04-30,2026-04-30,4047,6.0,1602.51,1626.17
+PO-2026-1329,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-03-14,2026-03-30,2026-03-28,3490,5.0,2389.11,2397.64
+PO-2026-1330,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-06-14,2026-07-03,2026-07-02,1485,0.0,2198.9,2195.43
+PO-2026-1331,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-05-09,2026-05-23,2026-05-28,3093,15.0,1843.16,1889.05
+PO-2026-1332,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-01-14,2026-02-05,2026-02-04,2174,15.0,1843.16,1852.77
+PO-2026-1333,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-05-31,2026-06-26,2026-06-25,1435,0.0,1092.72,1103.01
+PO-2026-1334,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-05-20,2026-06-06,2026-06-15,4330,37.0,600.99,632.96
+PO-2026-1335,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-08-30,2026-09-18,2026-09-16,1836,1.0,1602.51,1633.94
+PO-2026-1336,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2025-12-09,2025-12-31,2025-12-29,2757,1.0,1596.98,1609.76
+PO-2026-1337,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-01-30,2026-02-14,2026-02-13,641,1.0,296.32,297.33
+PO-2026-1338,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-03-27,2026-04-23,2026-04-23,1095,0.0,1896.99,1905.39
+PO-2026-1339,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-02-10,2026-03-02,2026-03-12,4678,36.0,1843.16,1880.68
+PO-2026-1340,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-05-20,2026-06-14,2026-06-22,4289,5.0,1896.99,1905.17
+PO-2026-1341,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-03-01,2026-03-26,2026-03-25,1643,11.0,380.69,388.51
+PO-2026-1342,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-08-13,2026-09-04,2026-09-13,2262,0.0,2198.9,2226.2
+PO-2026-1343,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-05-15,2026-06-08,2026-06-07,4508,9.0,1602.51,1623.68
+PO-2026-1344,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-04-07,2026-05-02,2026-05-01,2085,2.0,1092.72,1100.89
+PO-2026-1345,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-10-23,2026-11-08,2026-11-06,2544,1.0,1596.98,1589.84
+PO-2026-1346,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-06-04,2026-07-03,2026-07-01,842,0.0,1896.99,1906.81
+PO-2026-1347,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-04-23,2026-05-21,2026-05-25,2573,20.0,2432.3,2508.5
+PO-2026-1348,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-09-03,2026-09-22,2026-09-20,4774,5.0,601.04,621.34
+PO-2026-1349,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-07-18,2026-08-06,2026-08-06,3401,35.0,2432.3,2569.06
+PO-2026-1350,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-07-15,2026-08-05,2026-08-04,2761,1.0,1602.51,1620.56
+PO-2026-1351,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-07-20,2026-08-12,2026-08-12,3951,32.0,2432.3,2570.13
+PO-2026-1352,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-03-22,2026-04-07,2026-04-05,2596,0.0,1896.99,1897.32
+PO-2026-1353,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-10-19,2026-11-11,2026-11-09,2468,0.0,296.32,298.57
+PO-2026-1354,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-06-21,2026-07-13,2026-07-11,1355,12.0,600.99,639.94
+PO-2026-1355,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2025-12-11,2025-12-31,2025-12-31,2017,21.0,380.69,380.39
+PO-2026-1356,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-04-17,2026-05-12,2026-05-10,1632,1.0,1092.72,1093.55
+PO-2026-1357,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-02-11,2026-03-08,2026-03-06,673,1.0,1843.16,1859.98
+PO-2026-1358,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-04-26,2026-05-24,2026-05-23,4533,29.0,380.69,393.99
+PO-2026-1359,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-01-21,2026-02-08,2026-02-06,4308,1.0,1596.98,1593.04
+PO-2026-1360,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-07-16,2026-08-13,2026-08-12,2997,5.0,1602.51,1628.24
+PO-2026-1361,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2025-12-21,2026-01-09,2026-01-17,1270,2.0,2389.11,2377.52
+PO-2026-1362,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-02-01,2026-02-20,2026-02-19,4508,5.0,2389.11,2391.36
+PO-2026-1363,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-09-07,2026-10-03,2026-10-01,1736,2.0,1092.72,1095.8
+PO-2026-1364,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-08-06,2026-08-27,2026-08-25,1630,1.0,1602.51,1632.46
+PO-2026-1365,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-01-12,2026-01-30,2026-01-29,3759,19.0,380.69,384.31
+PO-2026-1366,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-04-05,2026-04-30,2026-04-30,2570,2.0,1896.99,1912.19
+PO-2026-1367,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-09-09,2026-09-28,2026-09-26,2443,12.0,1843.16,1909.66
+PO-2026-1368,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-11-07,2025-11-24,2025-11-26,3764,10.0,601.04,599.51
+PO-2026-1369,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-03-06,2026-03-30,2026-03-29,1075,6.0,1843.16,1869.73
+PO-2026-1370,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-05-23,2026-06-11,2026-06-09,2400,3.0,1596.98,1592.75
+PO-2026-1371,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-01-06,2026-01-30,2026-01-29,1678,0.0,2198.9,2221.59
+PO-2026-1372,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-06-22,2026-07-08,2026-07-20,1410,0.0,296.32,296.02
+PO-2026-1373,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-03-05,2026-03-23,2026-03-21,3658,19.0,1843.16,1892.71
+PO-2026-1374,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-08-12,2026-09-07,2026-09-06,2436,2.0,1602.51,1622.33
+PO-2026-1375,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-01-08,2026-01-26,2026-01-24,3221,0.0,1596.98,1590.38
+PO-2026-1376,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2025-12-12,2025-12-27,2025-12-31,840,4.0,380.69,381.51
+PO-2026-1377,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-03-19,2026-04-08,2026-04-06,2127,,2432.3,2530.18
+PO-2026-1378,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-03-19,2026-04-05,,3670,7.0,2389.11,2413.07
+PO-2026-1379,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-04-01,2026-04-24,2026-04-24,3067,0.0,1602.51,1614.99
+PO-2026-1380,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-03-27,2026-04-24,,766,0.0,1596.98,1598.85
+PO-2026-1381,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-03-29,2026-04-17,2026-04-15,1476,14.0,600.99,622.52
+PO-2026-1382,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2025-11-12,2025-12-01,2025-12-05,3167,17.0,1843.16,1859.34
+PO-2026-1383,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-07-08,2026-07-25,2026-07-23,2954,16.0,380.69,396.36
+PO-2026-1384,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-06-30,2026-07-14,2026-07-13,4302,3.0,1602.51,1634.17
+PO-2026-1385,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-10-31,2026-11-16,2026-11-14,2363,2.0,1596.98,1603.0
+PO-2026-1386,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-06-13,2026-07-12,2026-07-12,2990,0.0,1092.72,1109.73
+PO-2026-1387,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-05-27,2026-06-11,2026-06-09,4406,29.0,380.69,390.86
+PO-2026-1388,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-05-23,2026-06-07,2026-06-07,1195,2.0,601.04,617.94
+PO-2026-1389,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2025-11-19,2025-12-04,2025-12-02,4059,3.0,1896.99,1879.97
+PO-2026-1390,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-08-19,2026-09-10,2026-09-10,4736,5.0,1092.72,1107.31
+PO-2026-1391,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-03-07,2026-03-21,2026-03-20,3675,3.0,1602.51,1620.73
+PO-2026-1392,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-10-24,2026-11-17,2026-11-17,1409,1.0,1596.98,1619.09
+PO-2026-1393,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2025-12-15,2026-01-10,2026-01-17,2922,5.0,2389.11,2382.55
+PO-2026-1394,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-05-07,2026-05-22,2026-05-31,2658,19.0,600.99,633.07
+PO-2026-1395,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-06-03,2026-06-30,2026-06-30,1550,0.0,1896.99,1916.83
+PO-2026-1396,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-09-17,2026-10-01,2026-09-29,3328,21.0,380.69,399.63
+PO-2026-1397,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-08-08,2026-08-27,2026-08-27,2089,0.0,1602.51,1632.95
+PO-2026-1398,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2025-12-23,2026-01-13,2026-01-12,2807,1.0,2389.11,2409.07
+PO-2026-1399,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2025-11-12,2025-12-02,2025-12-01,4949,7.0,2389.11,2379.63
+PO-2026-1400,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-01-18,2026-02-09,2026-02-20,2384,0.0,1092.72,1090.16
+PO-2026-1401,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-05-28,2026-06-17,2026-06-15,2937,21.0,600.99,634.71
+PO-2026-1402,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-03-19,2026-04-10,2026-04-14,4732,29.0,2432.3,2519.92
+PO-2026-1403,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-03-21,2026-04-06,2026-04-06,3992,2.0,1896.99,1890.54
+PO-2026-1404,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-09-12,2026-10-06,2026-10-06,4618,2.0,1092.72,1110.36
+PO-2026-1405,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-11-24,2025-12-19,2025-12-24,2129,2.0,601.04,602.26
+PO-2026-1406,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-03-20,2026-04-07,2026-04-13,3087,5.0,1896.99,1906.91
+PO-2026-1407,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-07-14,2026-08-10,2026-08-08,1391,3.0,2389.11,2407.49
+PO-2026-1408,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-02-08,2026-03-08,2026-03-06,4924,10.0,601.04,610.33
+PO-2026-1409,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-02-08,2026-03-06,2026-03-04,661,5.0,600.99,620.84
+PO-2026-1410,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-08-01,2026-08-17,2026-08-15,1039,1.0,1596.98,1593.35
+PO-2026-1411,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2025-11-21,2025-12-16,2025-12-26,2596,0.0,1596.98,1597.92
+PO-2026-1412,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-08-30,2026-09-17,2026-09-15,4248,50.0,2432.3,2603.48
+PO-2026-1413,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-04-12,2026-05-04,2026-05-03,2564,19.0,1843.16,1875.46
+PO-2026-1414,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-06-16,2026-07-09,2026-07-08,4404,1.0,296.32,299.79
+PO-2026-1415,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-02-12,2026-03-09,2026-03-09,4264,1.0,1092.72,1093.24
+PO-2026-1416,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-04-11,2026-04-29,2026-04-27,532,1.0,1602.51,1607.78
+PO-2026-1417,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-03-06,2026-03-31,2026-04-12,1472,4.0,1602.51,1624.61
+PO-2026-1418,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-04-09,2026-05-03,2026-05-03,4075,3.0,1602.51,1613.2
+PO-2026-1419,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-02-12,2026-02-28,2026-02-26,3157,1.0,1596.98,1598.38
+PO-2026-1420,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-06-06,2026-06-23,2026-06-21,1130,13.0,2432.3,2571.89
+PO-2026-1421,SUP-102,Chennai Precision Castings,Stamping & Castings,,2026-09-27,2026-10-25,2026-10-24,732,0.0,2389.11,2443.09
+PO-2026-1422,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-10-28,2026-11-19,2026-11-18,960,8.0,380.69,404.32
+PO-2026-1423,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-09-17,2026-10-01,2026-09-30,715,8.0,2432.3,2604.78
+PO-2026-1424,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-04-23,2026-05-08,2026-05-07,2552,2.0,1602.51,1609.06
+PO-2026-1425,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2025-12-24,2026-01-07,2026-01-07,4309,1.0,2198.9,2202.12
+PO-2026-1426,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-12-16,2026-01-03,2026-01-02,3145,6.0,601.04,604.57
+PO-2026-1427,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2025-11-06,2025-12-02,2025-11-30,3806,5.0,1896.99,1883.61
+PO-2026-1428,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-09-29,2026-10-14,2026-10-13,4252,0.0,296.32,301.69
+PO-2026-1429,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-09-16,2026-10-10,2026-10-08,856,0.0,2198.9,2222.23
+PO-2026-1430,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-10-24,2026-11-12,2026-11-19,1783,14.0,380.69,404.8
+PO-2026-1431,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-07-31,2026-08-24,2026-08-23,1429,3.0,2389.11,2408.55
+PO-2026-1432,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-10-18,2026-11-04,2026-11-02,4782,5.0,2198.9,2231.64
+PO-2026-1433,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2025-12-14,2026-01-05,2026-01-03,4083,28.0,600.99,603.49
+PO-2026-1434,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-01-30,2026-02-18,2026-02-16,4944,29.0,380.69,387.56
+PO-2026-1435,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-06-16,2026-07-08,2026-07-16,1166,11.0,1843.16,1900.28
+PO-2026-1436,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-02-01,2026-02-21,2026-02-19,2129,4.0,1602.51,1625.04
+PO-2026-1437,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-10-12,2026-11-08,2026-11-06,615,0.0,296.32,299.56
+PO-2026-1438,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-09-20,2026-10-04,2026-10-03,653,2.0,2389.11,2412.37
+PO-2026-1439,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-09-11,2026-10-05,2026-10-03,2413,20.0,1843.16,1909.47
+PO-2026-1440,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-06-25,2026-07-17,2026-07-15,3371,2.0,2198.9,2213.85
+PO-2026-1441,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-02-17,2026-03-14,2026-03-14,2679,18.0,1843.16,1884.76
+PO-2026-1442,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-02-24,2026-03-22,2026-03-20,1891,1.0,2389.11,2421.13
+PO-2026-1443,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-09-20,2026-10-13,2026-10-11,1890,22.0,2432.3,2620.83
+PO-2026-1444,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2025-11-24,2025-12-15,2025-12-15,789,1.0,1596.98,1598.73
+PO-2026-1445,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-02-24,2026-03-16,2026-03-16,753,0.0,2198.9,2207.24
+PO-2026-1446,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-05-07,2026-05-26,2026-05-24,2173,1.0,1602.51,1609.43
+PO-2026-1447,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-09-13,2026-09-30,2026-09-30,841,2.0,601.04,627.47
+PO-2026-1448,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-06-27,2026-07-19,2026-07-19,2349,18.0,600.99,634.16
+PO-2026-1449,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-02-20,2026-03-16,2026-03-14,3950,11.0,1602.51,1609.24
+PO-2026-1450,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2025-11-22,2025-12-10,2025-12-08,771,0.0,2198.9,2202.12
+PO-2026-1451,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2025-12-02,2025-12-26,2025-12-25,1020,4.0,1843.16,1855.72
+PO-2026-1452,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-07-31,2026-08-17,2026-08-17,652,3.0,600.99,642.02
+PO-2026-1453,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-09-17,2026-10-15,2026-10-13,3036,2.0,1092.72,1094.85
+PO-2026-1454,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-05-17,2026-05-31,2026-06-11,666,6.0,380.69,391.83
+PO-2026-1455,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-07-09,2026-07-31,2026-07-29,4857,7.0,2389.11,2405.46
+PO-2026-1456,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-01-02,2026-01-16,,2656,5.0,1092.72,1094.49
+PO-2026-1457,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-07-29,2026-08-15,2026-08-14,868,0.0,1896.99,1930.9
+PO-2026-1458,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-01-17,2026-02-09,2026-02-08,3886,2.0,2198.9,2212.61
+PO-2026-1459,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-04-17,2026-05-03,2026-05-01,3907,5.0,1092.72,1090.71
+PO-2026-1460,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-03-27,2026-04-21,2026-04-21,1981,3.0,1896.99,1915.09
+PO-2026-1461,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-03-31,2026-04-15,2026-04-15,4908,55.0,2432.3,2518.34
+PO-2026-1462,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-02-22,2026-03-23,2026-03-23,612,0.0,1896.99,1901.65
+PO-2026-1463,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-08-10,2026-09-04,2026-09-02,1016,2.0,601.04,618.47
+PO-2026-1464,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2025-12-29,2026-01-12,2026-01-22,518,5.0,600.99,604.44
+PO-2026-1465,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-08-16,2026-09-11,2026-09-11,4810,24.0,380.69,398.09
+PO-2026-1466,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-07-06,2026-07-23,2026-07-26,3261,35.0,600.99,631.72
+PO-2026-1467,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2025-11-17,2025-12-02,2025-11-30,1841,10.0,1843.16,1835.77
+PO-2026-1468,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-06-07,2026-06-21,2026-06-21,2934,0.0,1596.98,1601.21
+PO-2026-1469,SUP-102,Chennai Precision Castings,Stamping & Castings,,2026-03-04,2026-03-25,2026-03-24,653,1.0,2389.11,2385.0
+PO-2026-1470,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2025-11-20,2025-12-14,2025-12-14,4054,36.0,600.99,597.98
+PO-2026-1471,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-03-14,2026-04-11,2026-04-09,4695,3.0,1896.99,1888.47
+PO-2026-1472,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-01-04,2026-01-20,2026-01-19,3494,3.0,1596.98,1588.88
+PO-2026-1473,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-10-22,2026-11-06,2026-11-04,783,7.0,600.99,652.22
+PO-2026-1474,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-09-01,2026-09-23,2026-09-21,3991,27.0,380.69,400.61
+PO-2026-1475,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-04-25,2026-05-14,2026-05-17,2318,19.0,600.99,622.03
+PO-2026-1476,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-10-07,2026-11-04,2026-11-04,3842,2.0,296.32,299.16
+PO-2026-1477,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-07-06,2026-07-31,2026-07-29,1564,0.0,296.32,299.59
+PO-2026-1478,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2025-12-09,2025-12-23,2025-12-23,3284,1.0,2198.9,2191.11
+PO-2026-1479,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-08-23,2026-09-16,2026-09-16,4401,6.0,2389.11,2435.99
+PO-2026-1480,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-02-02,2026-03-03,2026-03-02,2073,2.0,2389.11,2400.97
+PO-2026-1481,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-04-23,2026-05-09,,1514,1.0,2198.9,2210.27
+PO-2026-1482,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-05-28,2026-06-19,2026-06-19,794,0.0,1896.99,1908.21
+PO-2026-1483,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2025-12-07,2025-12-29,2026-01-10,3317,30.0,600.99,603.3
+PO-2026-1484,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-06-18,2026-07-11,2026-07-10,1858,12.0,2432.3,2570.18
+PO-2026-1485,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-03-19,2026-04-11,2026-04-16,4851,46.0,600.99,615.77
+PO-2026-1486,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-05-26,2026-06-09,2026-06-08,3481,35.0,2432.3,2521.23
+PO-2026-1487,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-10-14,2026-11-01,2026-11-01,3168,21.0,1843.16,1928.79
+PO-2026-1488,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-01-08,2026-01-22,2026-01-22,2859,1.0,1596.98,1590.64
+PO-2026-1489,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2025-12-22,2026-01-12,2026-01-12,3091,21.0,1843.16,1866.59
+PO-2026-1490,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-04-26,2026-05-19,2026-05-17,1736,14.0,1843.16,1872.03
+PO-2026-1491,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2025-12-09,2025-12-28,2025-12-26,586,1.0,1896.99,1913.56
+PO-2026-1492,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-09-09,2026-10-07,2026-10-05,3810,5.0,1896.99,1909.14
+PO-2026-1493,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-02-20,2026-03-12,2026-03-12,4187,3.0,1596.98,1600.43
+PO-2026-1494,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2025-11-18,2025-12-15,2025-12-17,1220,11.0,2432.3,2452.67
+PO-2026-1495,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-03-02,2026-03-25,2026-03-25,3479,1.0,1896.99,1895.49
+PO-2026-1496,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-05-25,2026-06-14,2026-06-21,646,0.0,296.32,299.46
+PO-2026-1497,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-01-11,2026-02-04,2026-02-04,3860,2.0,2198.9,2204.98
+PO-2026-1498,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-04-24,2026-05-17,2026-05-20,4736,32.0,1843.16,1891.94
+PO-2026-1499,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-07-03,2026-08-01,2026-08-01,3187,,1092.72,1100.29
+PO-2026-1500,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-08-09,2026-08-23,2026-08-22,1316,5.0,601.04,622.87
+PO-2026-1501,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-04-20,2026-05-12,2026-05-12,4200,2.0,1092.72,1102.5
+PO-2026-1502,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-09-06,2026-10-01,2026-09-29,1004,2.0,1602.51,1620.14
+PO-2026-1503,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-02-26,2026-03-20,2026-03-18,4934,56.0,2432.3,2493.91
+PO-2026-1504,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-04-30,2026-05-27,2026-05-26,2982,0.0,296.32,296.05
+PO-2026-1505,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2025-11-22,2025-12-11,2025-12-09,2839,3.0,2198.9,2202.17
+PO-2026-1506,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-04-22,2026-05-07,2026-05-05,2882,1.0,1092.72,1107.54
+PO-2026-1507,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-06-09,2026-06-25,2026-07-02,705,3.0,1843.16,1882.81
+PO-2026-1508,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2025-12-30,2026-01-16,2026-01-28,3806,3.0,1596.98,1609.2
+PO-2026-1509,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-10-14,2026-11-11,2026-11-09,4075,4.0,1602.51,1619.08
+PO-2026-1510,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-05-20,2026-06-12,2026-06-10,2353,2.0,2198.9,2211.74
+PO-2026-1511,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-10-21,2026-11-08,2026-11-06,3118,1.0,1092.72,1096.65
+PO-2026-1512,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-06-03,2026-07-01,2026-06-30,1303,16.0,2432.3,2548.41
+PO-2026-1513,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-09-28,2026-10-21,2026-10-21,553,2.0,1843.16,1930.0
+PO-2026-1514,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2025-12-10,2026-01-05,2026-01-04,3281,5.0,1602.51,1606.16
+PO-2026-1515,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-06-06,2026-06-21,2026-06-21,1357,1.0,1092.72,1109.24
+PO-2026-1516,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-01-01,2026-01-20,2026-01-20,3225,4.0,1092.72,1088.54
+PO-2026-1517,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-02-18,2026-03-16,2026-03-16,3546,39.0,2432.3,2476.65
+PO-2026-1518,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-01-02,2026-01-21,2026-01-27,1107,1.0,601.04,605.81
+PO-2026-1519,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-08-29,2026-09-13,2026-09-11,2603,0.0,2198.9,2217.66
+PO-2026-1520,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-02-12,2026-03-10,2026-03-09,2878,21.0,380.69,388.71
+PO-2026-1521,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-04-25,2026-05-19,2026-05-19,1456,15.0,600.99,630.61
+PO-2026-1522,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-10-31,2026-11-24,2026-11-24,3971,21.0,1843.16,1921.43
+PO-2026-1523,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-05-06,2026-05-24,2026-05-24,3350,0.0,1596.98,1585.63
+PO-2026-1524,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-02-22,2026-03-08,2026-03-08,4339,2.0,2198.9,2208.5
+PO-2026-1525,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-10-07,2026-11-02,2026-10-31,567,4.0,601.04,626.52
+PO-2026-1526,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-01-13,2026-02-08,2026-02-08,3402,3.0,296.32,299.46
+PO-2026-1527,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2025-11-28,2025-12-16,2025-12-14,4134,24.0,380.69,382.34
+PO-2026-1528,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-02-21,2026-03-16,2026-03-14,1537,8.0,600.99,617.04
+PO-2026-1529,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-04-04,2026-04-24,2026-04-24,1598,1.0,2389.11,2409.29
+PO-2026-1530,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2025-12-29,2026-01-26,2026-01-25,3005,3.0,1602.51,1615.54
+PO-2026-1531,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-07-18,2026-08-01,2026-08-14,2249,14.0,380.69,396.54
+PO-2026-1532,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-02-20,2026-03-06,2026-03-06,706,2.0,2389.11,2418.11
+PO-2026-1533,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-03-11,2026-04-05,2026-04-04,4608,37.0,600.99,617.57
+PO-2026-1534,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2025-11-26,2025-12-20,2025-12-20,3721,2.0,1596.98,1583.68
+PO-2026-1535,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-05-28,2026-06-26,2026-06-26,1441,9.0,1843.16,1885.03
+PO-2026-1536,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-06-27,2026-07-18,2026-07-16,3827,2.0,296.32,301.2
+PO-2026-1537,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-08-20,2026-09-12,2026-09-12,1730,2.0,1596.98,1589.39
+PO-2026-1538,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-06-19,2026-07-07,2026-07-05,4356,3.0,1596.98,1616.0
+PO-2026-1539,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2025-11-11,2025-11-26,2025-12-09,3117,2.0,1896.99,1896.6
+PO-2026-1540,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-06-04,2026-06-27,2026-07-03,3655,31.0,600.99,630.76
+PO-2026-1541,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-02-01,2026-02-28,2026-03-11,4634,2.0,2198.9,2198.01
+PO-2026-1542,SUP-104,Sundram Fasteners Ltd,Fasteners,,2026-02-09,2026-03-04,2026-03-04,4761,3.0,1596.98,1588.15
+PO-2026-1543,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-08-05,2026-08-20,2026-08-20,2511,16.0,380.69,395.41
+PO-2026-1544,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-07-24,2026-08-14,2026-08-23,3683,28.0,600.99,639.56
+PO-2026-1545,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-09-09,2026-09-29,2026-10-08,725,4.0,1843.16,1930.23
+PO-2026-1546,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-02-14,2026-03-14,2026-03-22,3396,5.0,2389.11,2423.9
+PO-2026-1547,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-06-07,2026-06-25,2026-06-23,946,5.0,1843.16,1905.1
+PO-2026-1548,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-09-23,2026-10-15,2026-10-14,3459,35.0,2432.3,2618.86
+PO-2026-1549,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-10-31,2026-11-14,2026-11-13,2381,2.0,2198.9,2216.55
+PO-2026-1550,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2025-12-09,2025-12-30,2026-01-11,3762,39.0,2432.3,2437.13
+PO-2026-1551,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-05-27,2026-06-15,2026-06-14,2794,4.0,2389.11,2399.15
+PO-2026-1552,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-07-14,2026-08-07,2026-08-07,848,2.0,1896.99,1904.54
+PO-2026-1553,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-03-07,2026-03-29,2026-03-27,3309,3.0,1602.51,1616.42
+PO-2026-1554,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2025-11-13,2025-12-09,2025-12-08,775,0.0,1596.98,1588.68
+PO-2026-1555,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-07-31,2026-08-21,2026-08-20,4704,4.0,1596.98,1606.44
+PO-2026-1556,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-02-19,2026-03-15,2026-03-13,2020,,296.32,298.41
+PO-2026-1557,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2025-11-02,2025-11-21,2025-11-19,3857,41.0,380.69,382.8
+PO-2026-1558,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-07-27,2026-08-20,2026-08-26,2147,2.0,2389.11,2424.7
+PO-2026-1559,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-03-23,2026-04-14,2026-04-14,2931,0.0,1596.98,1601.72
+PO-2026-1560,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-03-17,2026-04-05,2026-04-05,4291,,1596.98,1585.57
+PO-2026-1561,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-06-25,2026-07-22,2026-07-22,1844,2.0,1092.72,1093.23
+PO-2026-1562,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-03-19,2026-04-08,2026-04-06,2004,1.0,1896.99,1914.48
+PO-2026-1563,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-12-26,2026-01-14,2026-01-13,992,3.0,601.04,604.96
+PO-2026-1564,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-06-15,2026-07-01,2026-06-29,3720,7.0,1602.51,1627.73
+PO-2026-1565,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-10-25,2026-11-19,2026-11-18,3718,2.0,1896.99,1917.15
+PO-2026-1566,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-02-27,2026-03-17,2026-03-16,3789,45.0,600.99,617.94
+PO-2026-1567,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-08-15,2026-08-29,2026-08-29,3247,28.0,1843.16,1908.69
+PO-2026-1568,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-06-26,2026-07-17,2026-07-15,2461,2.0,1896.99,1928.16
+PO-2026-1569,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-05-27,2026-06-11,2026-06-11,4732,42.0,2432.3,2531.61
+PO-2026-1570,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-03-22,2026-04-17,2026-04-16,1773,3.0,380.69,386.16
+PO-2026-1571,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-08-09,2026-08-26,2026-08-25,4747,6.0,1602.51,1635.42
+PO-2026-1572,SUP-101,Bharat Forge Components,Powertrain,,2026-07-29,2026-08-14,2026-08-12,2898,2.0,1092.72,1106.43
+PO-2026-1573,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-01-26,2026-02-24,2026-02-22,1769,0.0,1596.98,1588.79
+PO-2026-1574,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-03-29,2026-04-20,2026-04-19,2544,14.0,1843.16,1872.71
+PO-2026-1575,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-07-08,2026-08-04,2026-08-03,1483,5.0,1843.16,1907.75
+PO-2026-1576,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-10-29,2026-11-27,2026-11-27,2487,2.0,1092.72,1094.94
+PO-2026-1577,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-06-02,2026-06-23,2026-06-23,4123,3.0,1896.99,1907.02
+PO-2026-1578,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-05-19,2026-06-08,2026-06-06,3808,1.0,1092.72,1095.65
+PO-2026-1579,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-06-25,2026-07-14,2026-07-12,3299,2.0,296.32,299.42
+PO-2026-1580,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2025-11-30,2025-12-24,2025-12-24,2125,3.0,1896.99,1908.67
+PO-2026-1581,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-06-08,2026-07-01,2026-07-01,4306,44.0,600.99,629.17
+PO-2026-1582,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-10-11,2026-11-05,2026-11-04,2136,1.0,1596.98,1596.61
+PO-2026-1583,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-05-01,2026-05-24,2026-05-22,4617,25.0,1843.16,1883.36
+PO-2026-1584,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-05-09,2026-06-06,2026-06-13,3149,0.0,2198.9,2225.0
+PO-2026-1585,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-04-12,2026-05-09,2026-05-18,4016,42.0,600.99,621.44
+PO-2026-1586,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2025-11-06,2025-11-24,2025-11-22,906,9.0,2432.3,2412.23
+PO-2026-1587,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-11-20,2025-12-09,2025-12-12,1911,3.0,601.04,604.87
+PO-2026-1588,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2025-12-14,2026-01-03,2026-01-03,1503,10.0,380.69,384.51
+PO-2026-1589,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-02-08,2026-02-24,2026-02-22,4740,4.0,1596.98,1613.91
+PO-2026-1590,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-08-15,2026-09-01,2026-08-31,1651,2.0,1896.99,1903.05
+PO-2026-1591,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-08-23,2026-09-16,2026-09-21,1807,1.0,1596.98,1610.14
+PO-2026-1592,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-07-04,2026-07-25,2026-07-25,2706,6.0,1896.99,1905.48
+PO-2026-1593,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-01-10,2026-01-31,2026-01-31,1501,,2198.9,2193.69
+PO-2026-1594,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-06-18,2026-07-03,2026-07-09,3280,17.0,1843.16,1898.91
+PO-2026-1595,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-10-16,2026-11-04,2026-11-02,3041,13.0,380.69,404.57
+PO-2026-1596,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-08-15,2026-09-07,2026-09-06,1107,7.0,600.99,648.35
+PO-2026-1597,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-02-20,2026-03-13,2026-03-17,3677,24.0,600.99,623.04
+PO-2026-1598,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-10-03,2026-10-25,2026-10-24,3001,1.0,1596.98,1592.59
+PO-2026-1599,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-07-05,2026-07-29,2026-07-28,2623,24.0,600.99,639.7
+PO-2026-1600,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-07-09,2026-07-31,2026-07-30,1606,3.0,1092.72,1098.45
+PO-2026-1601,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-07-14,2026-08-03,2026-08-02,2915,1.0,1596.98,1612.05
+PO-2026-1602,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-09-10,2026-10-07,2026-10-17,1548,10.0,1843.16,1925.97
+PO-2026-1603,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-07-24,2026-08-09,2026-08-07,3450,2.0,2389.11,2410.97
+PO-2026-1604,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-09-28,2026-10-20,2026-10-19,3566,1.0,2389.11,2435.97
+PO-2026-1605,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-05-06,2026-05-29,2026-05-27,930,0.0,2389.11,2422.91
+PO-2026-1606,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-09-29,2026-10-16,2026-10-15,2830,28.0,2432.3,2621.52
+PO-2026-1607,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-01-02,2026-01-23,2026-02-04,516,2.0,380.69,383.18
+PO-2026-1608,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2025-11-08,2025-11-26,2025-11-25,2384,1.0,1596.98,1590.34
+PO-2026-1609,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-07-28,2026-08-20,2026-08-18,3864,26.0,380.69,397.4
+PO-2026-1610,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-08-02,2026-08-28,2026-08-26,2574,2.0,1596.98,1604.49
+PO-2026-1611,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-09-22,2026-10-20,2026-10-19,4819,5.0,1602.51,1616.84
+PO-2026-1612,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2025-11-30,2025-12-26,2025-12-25,3998,2.0,1596.98,1589.94
+PO-2026-1613,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-04-29,2026-05-16,2026-05-26,3906,23.0,600.99,631.41
+PO-2026-1614,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2025-11-05,2025-11-22,2025-11-22,4248,2.0,2389.11,2367.41
+PO-2026-1615,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-08-17,2026-09-12,2026-09-11,2682,20.0,2432.3,2570.27
+PO-2026-1616,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-10-07,2026-11-02,2026-11-02,787,1.0,1896.99,1920.13
+PO-2026-1617,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-05-13,2026-06-07,,744,1.0,2389.11,2403.81
+PO-2026-1618,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-10-07,2026-10-24,2026-10-24,805,0.0,296.32,298.91
+PO-2026-1619,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-10-14,2026-11-12,2026-11-10,1631,0.0,296.32,297.88
+PO-2026-1620,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-04-20,2026-05-14,2026-05-14,3037,6.0,2389.11,2432.58
+PO-2026-1621,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-03-24,2026-04-08,2026-04-07,4367,5.0,1092.72,1091.02
+PO-2026-1622,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-08-25,2026-09-15,2026-09-24,1884,19.0,2432.3,2578.52
+PO-2026-1623,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-05-27,2026-06-22,2026-06-21,2910,19.0,600.99,637.64
+PO-2026-1624,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-01-28,2026-02-12,2026-02-10,2381,6.0,1843.16,1849.96
+PO-2026-1625,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-04-25,2026-05-12,2026-05-11,4916,7.0,2389.11,2422.73
+PO-2026-1626,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-04-08,2026-04-30,2026-04-28,1026,12.0,600.99,625.33
+PO-2026-1627,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-08-07,2026-08-25,2026-08-31,2251,12.0,380.69,401.33
+PO-2026-1628,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-03-30,2026-04-20,2026-04-18,3186,21.0,2432.3,2520.47
+PO-2026-1629,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-08-21,2026-09-06,2026-09-04,4718,3.0,2389.11,2447.74
+PO-2026-1630,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-02-12,2026-02-28,2026-02-28,4289,,601.04,605.7
+PO-2026-1631,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-03-22,2026-04-17,2026-04-17,3972,28.0,380.69,392.7
+PO-2026-1632,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-07-19,2026-08-14,2026-08-14,1115,1.0,2389.11,2413.53
+PO-2026-1633,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-10-19,2026-11-06,2026-11-04,4678,0.0,296.32,296.76
+PO-2026-1634,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-07-09,2026-07-26,2026-07-24,825,1.0,2198.9,2208.86
+PO-2026-1635,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-09-21,2026-10-16,2026-10-16,1140,1.0,2389.11,2412.25
+PO-2026-1636,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2025-12-24,2026-01-14,2026-01-13,3075,4.0,296.32,297.24
+PO-2026-1637,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2025-12-28,2026-01-15,2026-01-13,4496,6.0,1092.72,1096.44
+PO-2026-1638,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-04-10,2026-04-26,2026-04-24,2144,1.0,1896.99,1921.0
+PO-2026-1639,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-08-02,2026-08-21,2026-09-02,1152,1.0,1896.99,1928.5
+PO-2026-1640,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2025-12-22,2026-01-19,2026-01-18,2758,22.0,2432.3,2461.97
+PO-2026-1641,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-06-28,2026-07-14,2026-07-14,1423,10.0,1843.16,1909.1
+PO-2026-1642,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-07-26,2026-08-23,2026-08-22,2302,15.0,380.69,399.84
+PO-2026-1643,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-02-06,2026-03-02,2026-03-09,1441,13.0,600.99,617.2
+PO-2026-1644,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-01-04,2026-01-20,2026-01-20,4457,52.0,2432.3,2476.17
+PO-2026-1645,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-03-20,2026-04-13,2026-04-11,4641,37.0,600.99,623.13
+PO-2026-1646,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2025-11-07,2025-12-04,2025-12-03,2976,1.0,1092.72,1094.75
+PO-2026-1647,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2025-11-26,2025-12-18,2025-12-22,3329,1.0,1602.51,1609.77
+PO-2026-1648,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-05-27,2026-06-23,2026-06-21,1446,0.0,1092.72,1101.41
+PO-2026-1649,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-01-03,2026-01-22,2026-01-21,3658,5.0,601.04,607.96
+PO-2026-1650,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-05-29,2026-06-12,2026-06-11,1964,2.0,1092.72,1100.76
+PO-2026-1651,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-09-04,2026-09-18,2026-09-24,1711,11.0,600.99,649.3
+PO-2026-1652,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-06-06,2026-06-23,2026-06-22,4886,0.0,296.32,296.63
+PO-2026-1653,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-07-02,2026-07-26,2026-07-25,4972,1.0,1596.98,1595.79
+PO-2026-1654,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2025-12-17,2026-01-10,2026-01-08,4122,7.0,1896.99,1910.26
+PO-2026-1655,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-03-12,2026-04-08,2026-04-20,2655,22.0,380.69,387.82
+PO-2026-1656,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-04-30,2026-05-28,2026-05-26,2930,21.0,1843.16,1905.97
+PO-2026-1657,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-01-09,2026-02-03,2026-02-10,518,4.0,600.99,612.18
+PO-2026-1658,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-11-30,2025-12-22,2025-12-21,2047,6.0,601.04,597.21
+PO-2026-1659,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-07-04,2026-07-22,2026-07-24,1246,0.0,1602.51,1622.1
+PO-2026-1660,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-04-21,2026-05-10,2026-05-10,2206,1.0,1596.98,1608.77
+PO-2026-1661,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-10-30,2026-11-23,2026-12-05,1390,8.0,1843.16,1929.4
+PO-2026-1662,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2025-11-22,2025-12-07,2025-12-06,1949,2.0,2198.9,2204.5
+PO-2026-1663,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-07-09,2026-08-07,2026-08-07,1935,11.0,380.69,392.64
+PO-2026-1664,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-07-23,2026-08-15,2026-08-13,3274,4.0,1092.72,1095.89
+PO-2026-1665,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-09-26,2026-10-20,2026-10-20,1424,0.0,296.32,296.87
+PO-2026-1666,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-10-14,2026-11-09,2026-11-08,3170,22.0,1843.16,1947.45
+PO-2026-1667,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2025-11-08,2025-11-28,2025-11-28,2214,0.0,1896.99,1881.27
+PO-2026-1668,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2025-11-16,2025-12-12,2025-12-10,4399,23.0,380.69,378.69
+PO-2026-1669,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2025-11-15,2025-12-05,2025-12-15,2313,14.0,380.69,382.67
+PO-2026-1670,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-07-24,2026-08-17,2026-08-15,4556,7.0,1092.72,1111.23
+PO-2026-1671,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-04-03,2026-04-30,2026-04-28,919,8.0,2432.3,2537.68
+PO-2026-1672,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-11-25,2025-12-10,2025-12-10,2369,2.0,601.04,604.69
+PO-2026-1673,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-01-31,2026-02-16,2026-02-16,3279,2.0,1602.51,1600.15
+PO-2026-1674,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-09-19,2026-10-12,2026-10-12,3153,4.0,2389.11,2415.47
+PO-2026-1675,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-02-26,2026-03-13,2026-03-12,4541,2.0,1596.98,1598.74
+PO-2026-1676,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-02-22,2026-03-22,2026-04-03,4630,44.0,2432.3,2515.0
+PO-2026-1677,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-06-04,2026-06-26,2026-06-26,3434,34.0,2432.3,2532.07
+PO-2026-1678,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-06-08,2026-07-03,2026-07-01,3462,31.0,2432.3,2533.54
+PO-2026-1679,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-02-07,2026-02-22,2026-02-21,4416,7.0,601.04,608.32
+PO-2026-1680,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2025-11-16,2025-12-11,2025-12-09,4129,29.0,600.99,604.08
+PO-2026-1681,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-06-20,2026-07-08,2026-07-06,1126,7.0,1843.16,1900.89
+PO-2026-1682,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-10-18,2026-11-14,2026-11-13,4034,19.0,380.69,402.44
+PO-2026-1683,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-10-13,2026-11-08,2026-11-17,1181,7.0,380.69,398.87
+PO-2026-1684,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-03-14,2026-04-07,2026-04-05,3080,1.0,296.32,298.05
+PO-2026-1685,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-10-09,2026-10-26,2026-10-24,2127,2.0,1092.72,1103.26
+PO-2026-1686,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2025-12-28,2026-01-12,2026-01-12,2796,1.0,1602.51,1594.42
+PO-2026-1687,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-03-22,2026-04-06,2026-04-06,1878,0.0,296.32,294.68
+PO-2026-1688,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-10-10,2026-11-05,2026-11-03,4748,1.0,1092.72,1110.89
+PO-2026-1689,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-10-11,2026-11-09,2026-11-09,3388,1.0,296.32,297.22
+PO-2026-1690,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-10-02,2026-10-27,2026-10-26,844,1.0,2389.11,2437.17
+PO-2026-1691,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-01-09,2026-02-07,2026-02-07,3098,19.0,1843.16,1870.63
+PO-2026-1692,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-07-02,2026-07-17,2026-07-15,978,0.0,1602.51,1628.64
+PO-2026-1693,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-02-17,2026-03-11,2026-03-09,771,0.0,1602.51,1613.83
+PO-2026-1694,SUP-105,RheinMetall Automotive,Powertrain,,2026-07-05,2026-07-23,2026-07-22,1122,2.0,601.04,622.43
+PO-2026-1695,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-02-17,2026-03-12,2026-03-22,566,1.0,1843.16,1860.52
+PO-2026-1696,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-02-25,2026-03-21,2026-03-19,1687,1.0,1602.51,1618.3
+PO-2026-1697,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-01-12,2026-01-29,2026-01-28,1071,4.0,1843.16,1878.91
+PO-2026-1698,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-10-07,2026-10-27,2026-10-26,678,7.0,380.69,399.31
+PO-2026-1699,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-08-03,2026-08-28,2026-08-31,3584,4.0,2389.11,2431.42
+PO-2026-1700,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-01-09,2026-01-25,2026-01-24,3433,18.0,380.69,386.04
+PO-2026-1701,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-09-11,2026-10-06,2026-10-15,3932,35.0,600.99,652.29
+PO-2026-1702,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-07-28,2026-08-11,2026-08-11,2852,11.0,380.69,397.42
+PO-2026-1703,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-04-28,2026-05-19,2026-05-19,2077,1.0,2198.9,2228.37
+PO-2026-1704,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-04-04,2026-04-27,2026-04-25,1413,13.0,380.69,391.72
+PO-2026-1705,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-10-03,2026-10-30,2026-10-29,3954,1.0,1602.51,1625.99
+PO-2026-1706,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-01-14,2026-02-02,2026-02-06,1187,1.0,1896.99,1908.92
+PO-2026-1707,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-09-24,2026-10-10,2026-10-09,2144,1.0,296.32,300.41
+PO-2026-1708,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-05-15,2026-05-31,2026-05-30,1115,1.0,2198.9,2230.85
+PO-2026-1709,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-04-21,2026-05-11,2026-05-23,1189,9.0,600.99,627.27
+PO-2026-1710,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-05-28,2026-06-13,2026-06-13,871,1.0,296.32,297.43
+PO-2026-1711,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2025-11-24,2025-12-11,2025-12-10,4069,1.0,1092.72,1103.49
+PO-2026-1712,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-08-19,2026-09-08,2026-09-08,1483,5.0,2389.11,2431.15
+PO-2026-1713,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-06-29,2026-07-25,2026-07-24,4674,1.0,1596.98,1597.25
+PO-2026-1714,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-01-21,2026-02-09,2026-02-09,4498,3.0,2389.11,2395.69
+PO-2026-1715,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-10-13,2026-11-01,2026-10-30,4139,2.0,2198.9,2218.34
+PO-2026-1716,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-11-22,2025-12-08,2025-12-07,3181,6.0,601.04,598.06
+PO-2026-1717,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-03-10,2026-03-27,2026-03-26,1361,8.0,1843.16,1894.01
+PO-2026-1718,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-01-08,2026-01-25,2026-01-29,3736,4.0,601.04,604.54
+PO-2026-1719,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-09-18,2026-10-10,2026-10-09,3221,1.0,1602.51,1618.53
+PO-2026-1720,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2025-11-18,2025-12-08,2025-12-06,1012,0.0,1092.72,1093.5
+PO-2026-1721,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-08-10,2026-09-03,2026-09-01,2831,,2389.11,2437.94
+PO-2026-1722,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-01-09,2026-02-05,2026-02-13,3421,33.0,2432.3,2448.71
+PO-2026-1723,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-02-21,2026-03-11,2026-03-09,925,11.0,600.99,620.87
+PO-2026-1724,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-08-13,2026-09-05,2026-09-05,2618,22.0,600.99,649.08
+PO-2026-1725,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-01-09,2026-01-28,2026-01-27,4388,4.0,2198.9,2185.35
+PO-2026-1726,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-09-30,2026-10-22,2026-11-04,3238,1.0,601.04,627.83
+PO-2026-1727,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-09-24,2026-10-08,2026-10-06,1907,0.0,296.32,297.12
+PO-2026-1728,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-09-12,2026-09-28,2026-09-26,4105,8.0,1602.51,1640.04
+PO-2026-1729,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2025-12-12,2025-12-27,2025-12-26,2659,3.0,1896.99,1918.92
+PO-2026-1730,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-05-26,2026-06-22,2026-06-22,2410,15.0,600.99,626.35
+PO-2026-1731,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-02-22,2026-03-20,2026-03-26,4048,2.0,1896.99,1893.35
+PO-2026-1732,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-06-07,2026-06-25,2026-06-25,560,0.0,1092.72,1092.96
+PO-2026-1733,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-01-04,2026-01-21,2026-01-21,4460,49.0,2432.3,2470.91
+PO-2026-1734,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2025-11-10,2025-11-25,2025-11-23,3199,5.0,2389.11,2401.73
+PO-2026-1735,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-03-09,2026-03-28,2026-03-27,1721,1.0,1596.98,1590.85
+PO-2026-1736,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-08-06,2026-08-26,2026-08-26,4418,7.0,1092.72,1097.82
+PO-2026-1737,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-02-17,2026-03-09,2026-03-07,3640,0.0,1596.98,1607.76
+PO-2026-1738,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-10-02,2026-10-22,2026-10-21,3725,4.0,1092.72,1105.56
+PO-2026-1739,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-02-05,2026-02-27,2026-02-27,3062,5.0,2389.11,2411.07
+PO-2026-1740,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-02-13,2026-02-27,2026-02-26,3674,1.0,296.32,299.09
+PO-2026-1741,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-03-06,2026-03-31,2026-03-30,4578,1.0,1596.98,1604.28
+PO-2026-1742,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-05-27,2026-06-18,2026-06-17,1166,1.0,2198.9,2197.88
+PO-2026-1743,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-03-10,2026-04-07,2026-04-07,2560,0.0,296.32,298.46
+PO-2026-1744,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-05-22,2026-06-14,2026-06-14,3688,25.0,600.99,626.68
+PO-2026-1745,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-02-05,2026-02-19,2026-02-17,3701,1.0,2198.9,2193.49
+PO-2026-1746,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-03-17,2026-04-03,2026-04-01,2915,2.0,2198.9,2216.54
+PO-2026-1747,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-03-29,2026-04-13,2026-04-12,1412,1.0,601.04,606.78
+PO-2026-1748,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2025-12-15,2025-12-30,2025-12-29,4004,3.0,601.04,597.97
+PO-2026-1749,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2025-12-17,2026-01-10,2026-01-22,1496,1.0,296.32,294.25
+PO-2026-1750,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-06-05,2026-06-28,2026-06-26,2216,9.0,1843.16,1913.08
+PO-2026-1751,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-07-31,2026-08-25,2026-08-23,4267,3.0,1896.99,1915.68
+PO-2026-1752,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-04-03,2026-04-19,2026-04-17,4201,27.0,380.69,392.1
+PO-2026-1753,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-05-08,2026-05-27,2026-05-25,3011,1.0,2198.9,2213.89
+PO-2026-1754,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-10-14,2026-11-02,2026-11-02,3804,19.0,380.69,399.46
+PO-2026-1755,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-04-10,2026-05-03,2026-05-08,3510,30.0,380.69,392.34
+PO-2026-1756,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2025-11-02,2025-11-29,2025-11-27,1663,2.0,296.32,296.54
+PO-2026-1757,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-02-06,2026-03-03,2026-03-02,3293,5.0,2198.9,2193.41
+PO-2026-1758,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-10-03,2026-10-30,2026-11-02,1799,13.0,380.69,402.48
+PO-2026-1759,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-08-23,2026-09-07,2026-09-06,3331,30.0,2432.3,2590.33
+PO-2026-1760,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-08-05,2026-08-20,2026-08-20,3622,0.0,1596.98,1604.81
+PO-2026-1761,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-07-20,2026-08-06,2026-08-06,1315,1.0,1896.99,1924.18
+PO-2026-1762,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-01-08,2026-01-28,2026-01-26,3842,2.0,1896.99,1894.19
+PO-2026-1763,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-09-24,2026-10-12,2026-10-11,2141,13.0,1843.16,1923.34
+PO-2026-1764,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2025-11-14,2025-12-07,2025-12-07,3809,23.0,380.69,383.95
+PO-2026-1765,SUP-101,Bharat Forge Components,Powertrain,"Pune, India",2026-03-25,2026-04-10,2026-04-10,4340,4.0,1092.72,1099.23
+PO-2026-1766,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-02-14,2026-03-04,2026-03-03,2744,1.0,2389.11,2384.77
+PO-2026-1767,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-10-20,2026-11-08,2026-11-12,3838,22.0,1843.16,1936.07
+PO-2026-1768,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2025-11-02,2025-11-23,2025-11-21,1239,0.0,1602.51,1612.38
+PO-2026-1769,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-08-19,2026-09-14,2026-09-12,1251,0.0,2198.9,2206.61
+PO-2026-1770,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-06-24,2026-07-09,2026-07-14,4730,5.0,601.04,619.22
+PO-2026-1771,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-07-04,2026-07-30,2026-07-29,1969,8.0,600.99,637.93
+PO-2026-1772,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-08-21,2026-09-11,2026-09-09,569,1.0,2389.11,2414.88
+PO-2026-1773,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-08-16,2026-09-09,2026-09-07,1255,1.0,2198.9,2204.81
+PO-2026-1774,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-01-13,2026-02-09,2026-02-08,4365,1.0,296.32,298.64
+PO-2026-1775,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-04-29,2026-05-20,2026-05-18,3123,,1602.51,1632.45
+PO-2026-1776,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2025-11-18,2025-12-16,2025-12-15,1095,1.0,2389.11,2395.04
+PO-2026-1777,SUP-106,Shenzhen EV Connectors,Electronics,"Shenzhen, China",2026-02-18,2026-03-17,,808,4.0,600.99,620.35
+PO-2026-1778,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-05-13,2026-06-05,2026-06-03,1442,0.0,296.32,297.99
+PO-2026-1779,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-05-29,2026-06-16,2026-06-15,1802,8.0,1843.16,1883.76
+PO-2026-1780,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-08-07,2026-08-22,2026-08-31,4652,41.0,2432.3,2559.82
+PO-2026-1781,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-08-12,2026-08-28,2026-08-28,1773,3.0,1896.99,1934.54
+PO-2026-1782,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-04-05,2026-04-20,2026-04-27,3519,29.0,2432.3,2535.97
+PO-2026-1783,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-05-23,2026-06-21,2026-07-04,828,0.0,2198.9,2227.83
+PO-2026-1784,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-09-26,2026-10-13,2026-10-11,1154,1.0,601.04,627.62
+PO-2026-1785,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-10-21,2026-11-18,2026-11-16,3257,1.0,2198.9,2208.17
+PO-2026-1786,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-03-31,2026-04-26,2026-04-24,1508,,1843.16,1870.31
+PO-2026-1787,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-03-03,2026-04-01,2026-04-01,4663,33.0,380.69,390.67
+PO-2026-1788,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-08-27,2026-09-21,2026-09-19,2255,12.0,1843.16,1915.08
+PO-2026-1789,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-05-01,2026-05-26,2026-05-24,3029,,1596.98,1608.97
+PO-2026-1790,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-10-31,2026-11-29,,1565,8.0,1843.16,1939.8
+PO-2026-1791,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2025-12-26,2026-01-17,2026-01-17,4157,16.0,380.69,382.12
+PO-2026-1792,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-06-09,2026-06-25,2026-06-24,1513,6.0,601.04,617.25
+PO-2026-1793,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2026-08-19,2026-09-10,2026-09-09,1943,1.0,2198.9,2222.6
+PO-2026-1794,SUP-105,RheinMetall Automotive,Powertrain,"Frankfurt, Germany",2026-03-26,2026-04-19,2026-04-19,4586,5.0,601.04,611.71
+PO-2026-1795,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-07-13,2026-08-08,2026-08-07,3907,1.0,1602.51,1618.4
+PO-2026-1796,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2025-11-01,2025-11-21,2025-11-19,2915,23.0,1843.16,1856.64
+PO-2026-1797,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-07-04,2026-07-24,2026-07-31,1418,7.0,1843.16,1912.43
+PO-2026-1798,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-09-20,2026-10-10,2026-10-08,4315,5.0,1602.51,1616.08
+PO-2026-1799,SUP-108,Bosch Chassis Systems,Electronics,"Bengaluru, India",2025-12-18,2026-01-03,2026-01-03,4299,2.0,2198.9,2195.56
+PO-2026-1800,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2025-11-27,2025-12-14,2025-12-13,3991,5.0,1602.51,1610.85
+PO-2026-1697,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-01-12,2026-01-29,2026-01-28,1071,4.0,1843.16,1878.91
+PO-2026-1668,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2025-11-16,2025-12-12,2025-12-10,4399,23.0,380.69,378.69
+PO-2026-1064,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-04-23,2026-05-19,2026-05-29,3493,27.0,380.69,388.83
+PO-2026-1534,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2025-11-26,2025-12-20,2025-12-20,3721,2.0,1596.98,1583.68
+PO-2026-1067,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-05-21,2026-06-13,2026-06-12,4022,0.0,296.32,297.39
+PO-2026-1622,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-08-25,2026-09-15,2026-09-24,1884,19.0,2432.3,2578.52
+PO-2026-1347,SUP-112,Apex Industrial Fasteners,Fasteners,"Ludhiana, India",2026-04-23,2026-05-21,2026-05-25,2573,20.0,2432.3,2508.5
+PO-2026-1491,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2025-12-09,2025-12-28,2025-12-26,586,1.0,1896.99,1913.56
+PO-2026-1761,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-07-20,2026-08-06,2026-08-06,1315,1.0,1896.99,1924.18
+PO-2026-1457,SUP-103,Minda Auto Electronics,Electronics,"NCR, India",2026-07-29,2026-08-15,2026-08-14,868,0.0,1896.99,1930.9
+PO-2026-1066,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-08-28,2026-09-14,2026-09-14,2310,3.0,1602.51,1630.72
+PO-2026-1287,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2026-10-11,2026-10-30,2026-10-28,4037,0.0,296.32,300.21
+PO-2026-1636,SUP-111,Nippon Auto Bearings,Powertrain,"Osaka, Japan",2025-12-24,2026-01-14,2026-01-13,3075,4.0,296.32,297.24
+PO-2026-1068,SUP-110,Varroc Polymer Tech,Plastics & Trim,"Pune, India",2026-03-28,2026-04-22,2026-04-22,1884,12.0,1843.16,1886.95
+PO-2026-1328,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-04-03,2026-04-30,2026-04-30,4047,6.0,1602.51,1626.17
+PO-2026-1396,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2026-09-17,2026-10-01,2026-09-29,3328,21.0,380.69,399.63
+PO-2026-1245,SUP-104,Sundram Fasteners Ltd,Fasteners,"Chennai, India",2026-06-20,2026-07-08,2026-07-08,572,0.0,1596.98,1593.3
+PO-2026-1378,SUP-102,Chennai Precision Castings,Stamping & Castings,"Chennai, India",2026-03-19,2026-04-05,,3670,7.0,2389.11,2413.07
+PO-2026-1611,SUP-109,Sona Comstar Gears,Powertrain,"Gurugram, India",2026-09-22,2026-10-20,2026-10-19,4819,5.0,1602.51,1616.84
+PO-2026-1527,SUP-107,Thai Summit Stamping,Stamping & Castings,"Rayong, Thailand",2025-11-28,2025-12-16,2025-12-14,4134,24.0,380.69,382.34
